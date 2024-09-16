@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "coursework2"
+name = "hw_4module"
 version = "0.1.0"
 description = ""
 authors = ["Ekaterina Pavlova <miss.kat.katerina2007@gmail.com>"]
@@ -11,10 +11,6 @@ flake8 = "^7.1.0"
 black = "^24.4.2"
 mypy = "^1.10.1"
 isort = "^5.13.2"
-pandas = "^2.2.2"
-xlrd = "^2.0.1"
-python-dotenv = "^1.0.1"
-requests = "^2.32.3"
 pytest = "^8.2.2"
 pytest-cov = "^5.0.0"
 

@@ -26,6 +26,7 @@ def category_smartphone() -> Category:
 
 def test_category(category_smartphone: Category) -> None:
     assert category_smartphone.name == "Смартфоны"
+
     assert (
         category_smartphone.description
         == "Смартфоны, как средство не только коммуникации, но и получения дополнительных функций для удобства жизни"
